@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score</string>
+    <string name="team_a_name">Team A</string>
+    <string name="team_b_name">Team B</string>
+    <string name="team_a_score">0</string>
+    <string name="team_b_score">0</string>
+    <string name="stringAddOne">+1 point</string>
+    <string name="stringAddTwo">+2 points</string>
+    <string name="stringAddThree">+3 points</string>
+    <string name="reset">reset score</string>
+</resources>
